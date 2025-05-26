@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import Register from "./Pages/register.jsx";
 import Login from "./pages/login.jsx";
-import Dashboard from "./pages/dashBoared.jsx";
+import Dashboard from "./Pages/dashBoared.jsx";
 import PrivateRoute from "./Components/PrivetRoute.jsx";
 
 function App() {
